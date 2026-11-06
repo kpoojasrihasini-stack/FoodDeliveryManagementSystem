@@ -1,0 +1,11 @@
+{
+  "orderId" : 1001,
+  "customerName" : "pooja",
+  "email" : "pooja@gmail.com",
+  "restaurant" : "Food Palace",
+  "item" : "Chicken Biryani",
+  "quantity" : 2,
+  "total" : 360.0,
+  "paymentType" : "UPI",
+  "status" : "Out for delivery"
+}
